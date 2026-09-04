@@ -155,6 +155,8 @@ export const translations: Record<Language, Record<string, string>> = {
     role_farm_manager: "Farm manager",
     role_agronomist: "Agronomist",
     role_worker: "Worker",
+        cal_today: "Today",
+    cal_empty_day: "No events on this day",
   },
   fr: {
     appName: "Q-Farming 2.0",
@@ -304,6 +306,8 @@ export const translations: Record<Language, Record<string, string>> = {
     role_farm_manager: "Responsable de ferme",
     role_agronomist: "Agronome",
     role_worker: "Ouvrier",
+        cal_today: "Aujourd'hui",
+    cal_empty_day: "Aucun événement ce jour",
   },
   ar: {
     appName: "Q-Farming 2.0",
@@ -453,5 +457,7 @@ export const translations: Record<Language, Record<string, string>> = {
     role_farm_manager: "مدير المزرعة",
     role_agronomist: "مهندس زراعي",
     role_worker: "عامل",
+        cal_today: "اليوم",
+    cal_empty_day: "لا أحداث في هذا اليوم",
   },
 };
